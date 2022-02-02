@@ -28,7 +28,7 @@
     "eslint-config-unstyled": "^1.1.0"
   },
   "dependencies": {
-    "@kartotherian/mapnik": "~3.7.3"
+    "mapnik": "~4.5.9"
   },
   "main": "index.js",
   "scripts": {
