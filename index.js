@@ -1,4 +1,4 @@
-var mapnik = require('@kartotherian/mapnik');
+var mapnik = require('mapnik');
 module.exports = mapnik.blend;
 module.exports.Palette = mapnik.Palette;
 module.exports.rgb2hsl2 = mapnik.rgb2hsl;
